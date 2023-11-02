@@ -1,0 +1,10 @@
+#feedback li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+#feedback span {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
